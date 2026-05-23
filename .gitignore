@@ -1,0 +1,14 @@
+# Ignore compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore bin folder
+bin/
+
+# Ignore VS Code files
+.vscode/
+
+# Ignore build folders
+build/
